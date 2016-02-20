@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.391398
+  lightness: 0.2425373
+  brandStrength: 0.4179105
+  brandColors:
+    - '#050327'
+    - '#F2E0B4'
+    - '#87776F'
+    - '#654B4B'
+    - '#BCA488'
+  rhythmicContrast: 0.8451493
+typography_spectrum: 0.9020522
+name: Arash Lowni
